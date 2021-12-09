@@ -1,0 +1,1 @@
+Local max на итераторах с итераторами типа bidirectional.
